@@ -1,4 +1,4 @@
-# qWorlde
+# qWordle
 
 An implementation of the Wordle game in q/kdb
 
